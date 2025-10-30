@@ -5,6 +5,7 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
     font-weight: bold;
+    color: white;
     
     /* text-shadow: 2px 2px 1px black; */
 }
@@ -42,4 +43,5 @@ button{
     color:#d90505;
     font-size: 20px;
     border:none;
+
 }
