@@ -1,0 +1,45 @@
+body{
+    background-image: url(cardsBack.jpg);
+    background-size: fill;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    
+    /* text-shadow: 2px 2px 1px black; */
+}
+#cards-container{
+    display:flex;
+    justify-content: space-evenly;
+}
+.card{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:300px;
+    width:180px;
+    background-color: whitesmoke;
+    box-shadow: -2px -2px 5px rgb(4, 0, 0);
+    border:3px solid rgb(153, 156, 160);
+    font-size: 80px;
+    color:rgb(11, 1, 1);
+    text-align: center;
+    
+}
+
+h1{
+    color:goldenrod;
+    background-color: rgb(10, 9, 8);
+}
+#message-ele{
+    font-style: italic;
+}
+button{
+    background-color: goldenrod;
+    padding:10px 9px;
+    border-radius: 10px;
+    color:#d90505;
+    font-size: 20px;
+    border:none;
+}
