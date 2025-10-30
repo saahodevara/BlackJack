@@ -1,6 +1,6 @@
 body{
     background-image: url(cardsBack.jpg);
-    background-size: fill;
+    background-size: cover;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
@@ -42,6 +42,7 @@ button{
     border-radius: 10px;
     color:#d90505;
     font-size: 20px;
-    border:none;
+    border:2px solid black;
 
 }
+
